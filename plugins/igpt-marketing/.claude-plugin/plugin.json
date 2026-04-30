@@ -1,0 +1,9 @@
+{
+  "name": "igpt-marketing",
+  "description": "Marketing intelligence skills powered by iGPT. Tracks partnership pipelines, mines campaign feedback, monitors press coverage, tracks agency deliverables, analyzes brand mention sentiment, and extracts event action items — all automatically from connected email datasources.",
+  "version": "1.0.0",
+  "author": { "name": "iGPT AI", "email": "hello@igpt.ai", "url": "https://www.igpt.ai" },
+  "homepage": "https://github.com/igptai/skills/tree/main/plugins/igpt-marketing",
+  "repository": "https://github.com/igptai/skills",
+  "license": "MIT"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "igpt-sales",
+  "description": "Sales intelligence skills powered by iGPT. Surfaces deal open items, friction signals, follow-up gaps, competitor mentions, meeting prep briefs, cross-sell signals, and past solution matches from connected email datasources.",
+  "version": "1.0.0",
+  "author": { "name": "iGPT AI", "email": "hello@igpt.ai", "url": "https://www.igpt.ai" },
+  "homepage": "https://github.com/igptai/skills/tree/main/plugins/igpt-sales",
+  "repository": "https://github.com/igptai/skills",
+  "license": "MIT"
+}

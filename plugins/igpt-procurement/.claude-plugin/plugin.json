@@ -1,0 +1,9 @@
+{
+  "name": "igpt-procurement",
+  "description": "Procurement intelligence skills powered by iGPT. Tracks vendor commitments, contract renewals, purchase orders, vendor escalations, pricing negotiation history, and supplier risk signals — all automatically from connected email datasources.",
+  "version": "1.0.0",
+  "author": { "name": "iGPT AI", "email": "hello@igpt.ai", "url": "https://www.igpt.ai" },
+  "homepage": "https://github.com/igptai/skills/tree/main/plugins/igpt-procurement",
+  "repository": "https://github.com/igptai/skills",
+  "license": "MIT"
+}

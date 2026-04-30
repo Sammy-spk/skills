@@ -1,0 +1,9 @@
+{
+  "name": "igpt-cs",
+  "description": "Customer success intelligence skills powered by iGPT. Detects churn signals, checks renewal readiness, tracks escalations, mines success stories, and surfaces onboarding gaps — all automatically from connected email datasources.",
+  "version": "1.0.0",
+  "author": { "name": "iGPT AI", "email": "hello@igpt.ai", "url": "https://www.igpt.ai" },
+  "homepage": "https://github.com/igptai/skills/tree/main/plugins/igpt-cs",
+  "repository": "https://github.com/igptai/skills",
+  "license": "MIT"
+}

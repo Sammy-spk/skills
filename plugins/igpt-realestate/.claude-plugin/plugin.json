@@ -1,0 +1,9 @@
+{
+  "name": "igpt-realestate",
+  "description": "Real estate intelligence skills powered by iGPT. Tracks deal pipelines, client offer history, listing expiry dates, vendor coordination, client preferences, and commission agreements — all automatically from connected email datasources.",
+  "version": "1.0.0",
+  "author": { "name": "iGPT AI", "email": "hello@igpt.ai", "url": "https://www.igpt.ai" },
+  "homepage": "https://github.com/igptai/skills/tree/main/plugins/igpt-realestate",
+  "repository": "https://github.com/igptai/skills",
+  "license": "MIT"
+}

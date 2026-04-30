@@ -1,0 +1,9 @@
+{
+  "name": "igpt-recruiting",
+  "description": "Recruiting intelligence skills powered by iGPT. Tracks interview pipelines, sourcing conversations, offer decline signals, hiring manager alignment, job requisition status, and agency recruiter activity — all automatically from connected email datasources.",
+  "version": "1.0.0",
+  "author": { "name": "iGPT AI", "email": "hello@igpt.ai", "url": "https://www.igpt.ai" },
+  "homepage": "https://github.com/igptai/skills/tree/main/plugins/igpt-recruiting",
+  "repository": "https://github.com/igptai/skills",
+  "license": "MIT"
+}

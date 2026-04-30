@@ -1,0 +1,9 @@
+{
+  "name": "igpt-it",
+  "description": "IT intelligence skills powered by iGPT. Tracks incidents, access requests, software license renewals, security alert signals, change requests, and IT vendor commitments — all automatically from connected email datasources.",
+  "version": "1.0.0",
+  "author": { "name": "iGPT AI", "email": "hello@igpt.ai", "url": "https://www.igpt.ai" },
+  "homepage": "https://github.com/igptai/skills/tree/main/plugins/igpt-it",
+  "repository": "https://github.com/igptai/skills",
+  "license": "MIT"
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "igpt": {
+      "type": "http",
+      "url": "https://mcp.igpt.ai/"
+    }
+  }
+}

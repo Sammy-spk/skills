@@ -1,0 +1,115 @@
+{
+  "name": "igpt-skills",
+  "description": "Official iGPT skills marketplace. AI skills powered by your connected email datasources. Each plugin targets a specific role or department.",
+  "owner": {
+    "name": "iGPT AI",
+    "email": "hello@igpt.ai",
+    "url": "https://www.igpt.ai"
+  },
+  "plugins": [
+    {
+      "name": "igpt-sales",
+      "description": "Sales intelligence — deal tracking, friction detection, follow-up radar, meeting prep, competitor mentions, and more.",
+      "source": "./plugins/igpt-sales",
+      "version": "1.0.0",
+      "category": "sales",
+      "keywords": ["sales", "crm", "deals", "follow-up", "pipeline"]
+    },
+    {
+      "name": "igpt-finance",
+      "description": "Finance intelligence — invoice reconciliation, expense reports, subscription tracking, vendor spend, and more.",
+      "source": "./plugins/igpt-finance",
+      "version": "1.0.0",
+      "category": "finance",
+      "keywords": ["finance", "invoices", "expenses", "payments", "accounting"]
+    },
+    {
+      "name": "igpt-projects",
+      "description": "Project intelligence — blocker detection, decision logs, risk radar, stakeholder tracking, and more.",
+      "source": "./plugins/igpt-projects",
+      "version": "1.0.0",
+      "category": "productivity",
+      "keywords": ["projects", "blockers", "decisions", "risks", "milestones"]
+    },
+    {
+      "name": "igpt-cs",
+      "description": "Customer success intelligence — churn signals, renewal readiness, escalation tracking, success stories, and more.",
+      "source": "./plugins/igpt-cs",
+      "version": "1.0.0",
+      "category": "customer-success",
+      "keywords": ["customer-success", "churn", "renewal", "escalation", "onboarding"]
+    },
+    {
+      "name": "igpt-hr",
+      "description": "HR intelligence — candidate pipelines, offer tracking, onboarding action items, team friction detection, and more.",
+      "source": "./plugins/igpt-hr",
+      "version": "1.0.0",
+      "category": "hr",
+      "keywords": ["hr", "hiring", "candidates", "onboarding", "team"]
+    },
+    {
+      "name": "igpt-executive",
+      "description": "Executive intelligence — board updates, investor relationships, strategic commitments, crisis signals, fundraising, and more.",
+      "source": "./plugins/igpt-executive",
+      "version": "1.0.0",
+      "category": "executive",
+      "keywords": ["executive", "ceo", "founder", "board", "investors", "fundraising"]
+    },
+    {
+      "name": "igpt-marketing",
+      "description": "Marketing intelligence — partnership pipelines, campaign feedback, press coverage, agency deliverables, and more.",
+      "source": "./plugins/igpt-marketing",
+      "version": "1.0.0",
+      "category": "marketing",
+      "keywords": ["marketing", "partnerships", "campaigns", "press", "agencies"]
+    },
+    {
+      "name": "igpt-realestate",
+      "description": "Real estate intelligence — deal pipelines, offer history, listing expiry, client preferences, commissions, and more.",
+      "source": "./plugins/igpt-realestate",
+      "version": "1.0.0",
+      "category": "real-estate",
+      "keywords": ["real-estate", "deals", "listings", "clients", "commissions"]
+    },
+    {
+      "name": "igpt-consulting",
+      "description": "Consulting intelligence — deliverable tracking, scope creep detection, retainer usage, proposal follow-ups, and more.",
+      "source": "./plugins/igpt-consulting",
+      "version": "1.0.0",
+      "category": "consulting",
+      "keywords": ["consulting", "freelance", "deliverables", "scope", "retainer"]
+    },
+    {
+      "name": "igpt-procurement",
+      "description": "Procurement intelligence — vendor commitments, contract renewals, purchase orders, pricing negotiations, and more.",
+      "source": "./plugins/igpt-procurement",
+      "version": "1.0.0",
+      "category": "procurement",
+      "keywords": ["procurement", "vendors", "contracts", "purchase-orders", "suppliers"]
+    },
+    {
+      "name": "igpt-it",
+      "description": "IT intelligence — access request tracking, incident timelines, license management, security commitments, and more.",
+      "source": "./plugins/igpt-it",
+      "version": "1.0.0",
+      "category": "it",
+      "keywords": ["it", "security", "access", "incidents", "licenses"]
+    },
+    {
+      "name": "igpt-recruiting",
+      "description": "Recruiting agency intelligence — candidate status, client intake, placement fees, time-to-fill, counter-offers, and more.",
+      "source": "./plugins/igpt-recruiting",
+      "version": "1.0.0",
+      "category": "recruiting",
+      "keywords": ["recruiting", "candidates", "placements", "headhunting", "talent"]
+    },
+    {
+      "name": "igpt-research",
+      "description": "Research and academia intelligence — collaboration commitments, grant deadlines, reviewer feedback, publication pipelines, and more.",
+      "source": "./plugins/igpt-research",
+      "version": "1.0.0",
+      "category": "research",
+      "keywords": ["research", "academia", "grants", "publications", "collaboration"]
+    }
+  ]
+}

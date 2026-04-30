@@ -1,0 +1,9 @@
+{
+  "name": "igpt-executive",
+  "description": "Executive intelligence skills powered by iGPT. Builds board updates, tracks investor relationships, logs strategic commitments, monitors key relationship health, detects crisis signals, and tracks fundraising threads — all automatically from connected email datasources.",
+  "version": "1.0.0",
+  "author": { "name": "iGPT AI", "email": "hello@igpt.ai", "url": "https://www.igpt.ai" },
+  "homepage": "https://github.com/igptai/skills/tree/main/plugins/igpt-executive",
+  "repository": "https://github.com/igptai/skills",
+  "license": "MIT"
+}

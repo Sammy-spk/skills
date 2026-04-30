@@ -1,0 +1,9 @@
+{
+  "name": "igpt-research",
+  "description": "Research intelligence skills powered by iGPT. Tracks literature review threads, grant deadlines, data source access, collaboration commitments, publication pipelines, and research team action items — all automatically from connected email datasources.",
+  "version": "1.0.0",
+  "author": { "name": "iGPT AI", "email": "hello@igpt.ai", "url": "https://www.igpt.ai" },
+  "homepage": "https://github.com/igptai/skills/tree/main/plugins/igpt-research",
+  "repository": "https://github.com/igptai/skills",
+  "license": "MIT"
+}

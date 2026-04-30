@@ -1,0 +1,9 @@
+{
+  "name": "igpt-consulting",
+  "description": "Consulting intelligence skills powered by iGPT. Tracks client deliverables, detects scope creep, monitors retainer usage, collects client feedback, follows up on proposals, and mines reference requests — all automatically from connected email datasources.",
+  "version": "1.0.0",
+  "author": { "name": "iGPT AI", "email": "hello@igpt.ai", "url": "https://www.igpt.ai" },
+  "homepage": "https://github.com/igptai/skills/tree/main/plugins/igpt-consulting",
+  "repository": "https://github.com/igptai/skills",
+  "license": "MIT"
+}
